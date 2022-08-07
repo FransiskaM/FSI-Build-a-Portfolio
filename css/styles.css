@@ -40,7 +40,7 @@ h3 {
     text-align: center;          /*center alignment for h3*/
 }
 
-ul {
+ul {                             /*project list to center*/
     display: table;
     margin: 0 auto;
     }
