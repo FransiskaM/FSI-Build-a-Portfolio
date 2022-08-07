@@ -7,3 +7,12 @@ html {
     font-family: Georgia;
 }
   
+.myheader {                        /*class css myheader to create border*/
+    border-radius: 30px;              
+    background: lightgrey;
+    padding: 20px;
+    width: 1200px;
+    height: 150px;
+    opacity: .5;                  /*transparancy*/
+    text-align: right;
+}
