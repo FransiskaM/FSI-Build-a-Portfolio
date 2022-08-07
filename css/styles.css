@@ -32,3 +32,11 @@ p {                              /*font size and alignment for paragraph*/
 h3 {
     text-align: center;          /*center alignment for h3*/
 }
+
+.myfooter {                        /*class css myfooter to create border*/
+    border-radius: 30px; 
+    background: lightgrey;
+    padding: 20px;
+    width: 1200px;
+    height: 150px;
+}
