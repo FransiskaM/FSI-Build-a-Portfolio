@@ -24,7 +24,11 @@ html {
     place-items: center;
 }
 
-p {
+p {                              /*font size and alignment for paragraph*/
     font-size: 20px;
-    text-align: justify;
+    text-align: justify; 
+}
+
+h3 {
+    text-align: center;          /*center alignment for h3*/
 }
