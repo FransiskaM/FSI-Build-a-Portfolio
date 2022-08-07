@@ -16,3 +16,9 @@ html {
     opacity: .5;                  /*transparancy*/
     text-align: right;
 }
+#myimage {                         /* id css myimage to modify images*/
+    border: 5px solid rgb(93, 65, 65); 
+    border-radius: 15px;
+    width: 300px;
+    place-items: center;
+}
