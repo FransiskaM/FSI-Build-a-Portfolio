@@ -25,7 +25,7 @@ html {
     place-items: center;
 }
 
-img {                    
+img {                             /*move image to center*/           
     display: block;
       margin: 0 auto;
       width: 40%;
