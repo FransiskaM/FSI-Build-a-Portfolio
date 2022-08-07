@@ -39,6 +39,11 @@ h3 {
     text-align: center;          /*center alignment for h3*/
 }
 
+ul {
+    display: table;
+    margin: 0 auto;
+    }
+
 .myfooter {                        /*class css myfooter to create border*/
     border-radius: 30px; 
     background: lightgrey;
