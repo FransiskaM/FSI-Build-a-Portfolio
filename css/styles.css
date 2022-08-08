@@ -11,7 +11,7 @@ html {
     border-radius: 30px;              
     background: lightgrey;
     padding: 20px;
-    width: 1200px;
+    width: cover;
     height: 125px;
     opacity: .5;                  /*transparancy*/
     text-align: right;
@@ -33,7 +33,7 @@ img {                             /*move image to center*/
 
 p {                              /*font size and alignment for paragraph*/
     font-size: 20px;
-    text-align: justify; 
+    /*text-align: justify;*/ 
 }
 
 h3 {
@@ -46,10 +46,9 @@ ul {                             /*project list to center*/
     }
 
 .myfooter {                        /*class css myfooter to create border*/
-    border-radius: 30px; 
     background: lightgrey;
     padding: 20px;
-    width: 1200px;
+    width: cover;
     opacity: .4;                    /*transparancy*/
     height: 150px;
 }
