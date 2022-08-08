@@ -33,7 +33,7 @@ img {                             /*move image to center*/
 
 p {                              /*font size and alignment for paragraph*/
     font-size: 20px;
-    /*text-align: justify;*/ 
+    text-align: justify;
 }
 
 h3 {
