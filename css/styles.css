@@ -52,3 +52,8 @@ ul {                             /*project list to center*/
     opacity: .4;                    /*transparancy*/
     height: 150px;
 }
+
+div {
+    cursor:grabbing;
+  }
+  
